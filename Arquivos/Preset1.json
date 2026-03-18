@@ -1,0 +1,90 @@
+{
+    "ClasseDaCaixa": "DZ_KeyCardSystem_Crate",
+    "Itens": [
+        {
+            "ClasseDoItem": "PokemonBoosterPack_Basic3_3x",
+            "Gadgets": []
+        },
+        {
+            "ClasseDoItem": "PokemonBoosterPack_Basic3_1x",
+            "Gadgets": []
+        },
+        {
+            "ClasseDoItem": "NERV_MysteryGameGreen",
+            "Gadgets": []
+        },
+        {
+            "ClasseDoItem": "NERV_GC_DragonBallZBudokai",
+            "Gadgets": []
+        },
+        {
+            "ClasseDoItem": "CP_CannabisSeedsPackBlackFrost",
+            "Gadgets": []
+        },
+        {
+            "ClasseDoItem": "CP_CannabisSeedsPackS1",
+            "Gadgets": []
+        },
+        {
+            "ClasseDoItem": "AP_hooch_sugar",
+            "Gadgets": []
+        },
+        {
+            "ClasseDoItem": "AP_hooch_sugar",
+            "Gadgets": []
+        },
+        {
+            "ClasseDoItem": "AP_hooch_barm",
+            "Gadgets": []
+        },
+        {
+            "ClasseDoItem": "AP_hooch_barm",
+            "Gadgets": []
+        },
+        {
+            "ClasseDoItem": "geb_GreenFishingRod",
+            "Gadgets": []
+        },
+        {
+            "ClasseDoItem": "geb_SpinnerBait1",
+            "Gadgets": []
+        },
+        {
+            "ClasseDoItem": "NVGoggles",
+            "Gadgets": [
+                "Battery9V"
+            ]
+        },
+        {
+            "ClasseDoItem": "AmmoBox_762x39_20Rnd",
+            "Gadgets": []
+        },
+        {
+            "ClasseDoItem": "AmmoBox_762x39_20Rnd",
+            "Gadgets": []
+        },
+        {
+            "ClasseDoItem": "Candy_ARX_160",
+            "Gadgets": [
+                "Candy_ARX_160_mag_40Rnd",
+                "Candy_NT4_Sup",
+                "Candy_BR_Optic",
+                "Candy_MBL_Light",
+                "Candy_ARX_160_mag_40Rnd",
+                "Battery9V"
+            ]
+        },
+        {
+            "ClasseDoItem": "Candy_ScarH",
+            "Gadgets": [
+                "Candy_ARX_160_mag_40Rnd",
+                "Candy_NT4_Sup",
+                "Candy_BR_Optic",
+                "Candy_MBL_Light",
+                "Candy_ScarH_Buttstock",
+                "Candy_ScarH_mag_30Rnd",
+                "Battery9V"
+            ]
+        }
+    ]
+}
